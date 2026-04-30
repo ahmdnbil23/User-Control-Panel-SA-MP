@@ -23,9 +23,10 @@ Tujuan saya membagikan repository ini adalah untuk berkontribusi kepada komunita
 
 ## 🚀 How to Use / Cara Penggunaan
 1. Download repository ini ke web server kamu.
-2. Konfigurasikan database di setiap php.
-3. Import file `.sql` yang disediakan ke database MySQL kamu atau buat sesuai yang di butuhkan di dalam file php.
-4. UCP siap digunakan!
+2. Download PHPMailer dan taruh di directory web ucp kamu (PHPMailer-6.10.0 Recomendation or new)
+3. Konfigurasikan database di setiap php.
+4. Import file `.sql` yang disediakan ke database MySQL kamu atau buat sesuai yang di butuhkan di dalam file php.
+5. UCP siap digunakan!
 
 ---
 *Created with passion for the SA-MP & Open.mp Community.*
